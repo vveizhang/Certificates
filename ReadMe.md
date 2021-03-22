@@ -17,7 +17,7 @@
 
 
 ### Data Camp
-![IntroductionToSQL](./Files/IntroductionToSQL.png)
+![IntroductionToSQL](IntroductionToSQL.png)
 
 ![Introduction to Deep Learning in Python](./Files/Introduction to Deep Learning in Python.png)
 
