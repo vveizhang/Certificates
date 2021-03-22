@@ -19,12 +19,12 @@
 ### Data Camp
 ![IntroductionToSQL](IntroductionToSQL.png)
 
-![Introduction to Deep Learning in Python](./Files/Introduction to Deep Learning in Python.png)
+![Introduction to Deep Learning in Python](Introduction to Deep Learning in Python.png)
 
-![Unsupervised Learning in Python](./Files/Unsupervised Learning in Python.png)
+![Unsupervised Learning in Python](Unsupervised Learning in Python.png)
 
-![Python Data Science Toolbox 1](./Files/Python Data Science Toolbox1.png)
+![Python Data Science Toolbox 1](Python Data Science Toolbox1.png)
 
-![Python Data Science Toolbox 2](./Files/Python Data Science Toolbox2.png)
+![Python Data Science Toolbox 2](Python Data Science Toolbox2.png)
 
-![Statistical Thinking in Python](./Files/Statistical Thinking in Python.png)
+![Statistical Thinking in Python](Statistical Thinking in Python.png)
